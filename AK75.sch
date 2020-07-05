@@ -206,7 +206,7 @@ U 1 1 5F02AD1E
 P 2000 6200
 F 0 "Y1" V 1695 6150 50  0000 C CNN
 F 1 "Resonator_Small" V 1786 6150 50  0000 C CNN
-F 2 "" H 1975 6200 50  0001 C CNN
+F 2 "DIMR_Keyboard_Parts:CSTCE" H 1975 6200 50  0001 C CNN
 F 3 "~" H 1975 6200 50  0001 C CNN
 	1    2000 6200
 	0    1    1    0   
@@ -2169,23 +2169,23 @@ $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX74
 U 1 1 5F0EB48E
-P 8250 3850
-F 0 "MX74" H 8283 4073 60  0000 C CNN
-F 1 "MX-NoLED" H 8283 3999 20  0000 C CNN
-F 2 "" H 7625 3825 60  0001 C CNN
-F 3 "" H 7625 3825 60  0001 C CNN
-	1    8250 3850
+P 8750 3850
+F 0 "MX74" H 8783 4073 60  0000 C CNN
+F 1 "MX-NoLED" H 8783 3999 20  0000 C CNN
+F 2 "" H 8125 3825 60  0001 C CNN
+F 3 "" H 8125 3825 60  0001 C CNN
+	1    8750 3850
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D74
 U 1 1 5F0EB498
-P 8200 4100
-F 0 "D74" V 8246 4032 50  0000 R CNN
-F 1 "D_Small" V 8155 4032 50  0000 R CNN
-F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8200 4100 50  0001 C CNN
-F 3 "~" V 8200 4100 50  0001 C CNN
-	1    8200 4100
+P 8700 4100
+F 0 "D74" V 8746 4032 50  0000 R CNN
+F 1 "D_Small" V 8655 4032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 8700 4100 50  0001 C CNN
+F 3 "~" V 8700 4100 50  0001 C CNN
+	1    8700 4100
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -2622,9 +2622,6 @@ Wire Wire Line
 Connection ~ 6700 4200
 Wire Wire Line
 	6700 4200 7200 4200
-Connection ~ 7200 4200
-Wire Wire Line
-	7200 4200 8200 4200
 Wire Wire Line
 	1100 4850 1200 4850
 Connection ~ 1200 4850
@@ -2873,12 +2870,6 @@ Wire Wire Line
 Connection ~ 8400 1850
 Wire Wire Line
 	8400 1850 8400 2500
-Connection ~ 8400 2500
-Wire Wire Line
-	8400 2500 8400 3800
-Connection ~ 8400 3800
-Wire Wire Line
-	8400 3800 8400 4450
 Wire Wire Line
 	8900 1000 8900 1200
 Connection ~ 8900 1200
@@ -2889,7 +2880,7 @@ Wire Wire Line
 	8900 1850 8900 2500
 Connection ~ 8900 2500
 Wire Wire Line
-	8900 2500 8900 4450
+	8900 2500 8900 3800
 Text GLabel 1400 1000 1    50   Input ~ 0
 COL0
 Text GLabel 1900 1000 1    50   Input ~ 0
@@ -2934,4 +2925,117 @@ Text GLabel 1100 4200 0    50   Input ~ 0
 ROW4
 Text GLabel 1100 4850 0    50   Input ~ 0
 ROW5
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5F29F827
+P 9250 1250
+F 0 "MX?" H 9283 1473 60  0000 C CNN
+F 1 "MX-NoLED" H 9283 1399 20  0000 C CNN
+F 2 "" H 8625 1225 60  0001 C CNN
+F 3 "" H 8625 1225 60  0001 C CNN
+	1    9250 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5F2A248A
+P 9200 1500
+F 0 "D?" V 9246 1432 50  0000 R CNN
+F 1 "D_Small" V 9155 1432 50  0000 R CNN
+F 2 "" V 9200 1500 50  0001 C CNN
+F 3 "~" V 9200 1500 50  0001 C CNN
+	1    9200 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5F2A3C4A
+P 9250 1900
+F 0 "MX?" H 9283 2123 60  0000 C CNN
+F 1 "MX-NoLED" H 9283 2049 20  0000 C CNN
+F 2 "" H 8625 1875 60  0001 C CNN
+F 3 "" H 8625 1875 60  0001 C CNN
+	1    9250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5F2A3C54
+P 9200 2150
+F 0 "D?" V 9246 2082 50  0000 R CNN
+F 1 "D_Small" V 9155 2082 50  0000 R CNN
+F 2 "" V 9200 2150 50  0001 C CNN
+F 3 "~" V 9200 2150 50  0001 C CNN
+	1    9200 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5F2B1809
+P 9250 2550
+F 0 "MX?" H 9283 2773 60  0000 C CNN
+F 1 "MX-NoLED" H 9283 2699 20  0000 C CNN
+F 2 "" H 8625 2525 60  0001 C CNN
+F 3 "" H 8625 2525 60  0001 C CNN
+	1    9250 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5F2B1813
+P 9200 2800
+F 0 "D?" V 9246 2732 50  0000 R CNN
+F 1 "D_Small" V 9155 2732 50  0000 R CNN
+F 2 "" V 9200 2800 50  0001 C CNN
+F 3 "~" V 9200 2800 50  0001 C CNN
+	1    9200 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 5F2BED9E
+P 9250 4500
+F 0 "MX?" H 9283 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 9283 4649 20  0000 C CNN
+F 2 "" H 8625 4475 60  0001 C CNN
+F 3 "" H 8625 4475 60  0001 C CNN
+	1    9250 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 5F2BEDA8
+P 9200 4750
+F 0 "D?" V 9246 4682 50  0000 R CNN
+F 1 "D_Small" V 9155 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 9200 4750 50  0001 C CNN
+F 3 "~" V 9200 4750 50  0001 C CNN
+	1    9200 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8700 4850 9200 4850
+Wire Wire Line
+	9400 2500 9400 4450
+Connection ~ 8700 4850
+Connection ~ 8900 3800
+Wire Wire Line
+	8900 3800 8900 4450
+Wire Wire Line
+	8700 4200 7200 4200
+Connection ~ 7200 4200
+Wire Wire Line
+	9400 1000 9400 1200
+Connection ~ 9400 2500
+Connection ~ 9400 1200
+Wire Wire Line
+	9400 1200 9400 1850
+Connection ~ 9400 1850
+Wire Wire Line
+	9400 1850 9400 2500
+Wire Wire Line
+	9200 2900 8700 2900
+Connection ~ 8700 2900
+Text GLabel 9400 1000 1    50   Input ~ 0
+COL16
 $EndSCHEMATC
