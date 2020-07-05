@@ -1,2 +1,2 @@
 # AK75
-New fresh version of my AK75 board. Hopefully i can get it to work this time...
+New version of AK75.
