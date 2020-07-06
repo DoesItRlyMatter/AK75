@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFF7FF)
+    (visible_elements 7FFFEFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -408,7 +408,7 @@
   )
 
   (module DIMR_Keyboard_Parts:CSTCE (layer B.Cu) (tedit 5D0FE936) (tstamp 5F024FBB)
-    (at 213.51875 186.53125)
+    (at 269.08125 196.85)
     (path /5F02AD1E)
     (fp_text reference Y1 (at -0.01524 -2.032) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -674,7 +674,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5F024F2D)
-    (at 254.78075 180.594)
+    (at 230.98125 217.4875)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F0229E2)
@@ -710,7 +710,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer B.Cu) (tedit 5B36C52B) (tstamp 5F024F1C)
-    (at 259.19075 180.594)
+    (at 236.5375 217.4875)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5F0217AB)
@@ -3514,7 +3514,7 @@
   )
 
   (module random-keyboard-parts:JST-SR-4 (layer B.Cu) (tedit 5C919B1C) (tstamp 5F02478C)
-    (at 214.3125 202.40625)
+    (at 200.025 192.0875)
     (path /5F07FB4B)
     (fp_text reference J3 (at 0 6.5) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3544,7 +3544,7 @@
   )
 
   (module random-keyboard-parts:JST-SR-4 (layer B.Cu) (tedit 5C919B1C) (tstamp 5F024779)
-    (at 225.425 202.40625)
+    (at 233.3625 207.9625)
     (path /5F07574A)
     (fp_text reference J2 (at 0 6.5) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3574,7 +3574,7 @@
   )
 
   (module random-keyboard-parts:JST-SR-4 (layer B.Cu) (tedit 5C919B1C) (tstamp 5F024766)
-    (at 236.5375 202.40625)
+    (at 200.025 202.40625)
     (path /5F082B19)
     (fp_text reference J1 (at 0 6.5) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3604,7 +3604,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024753)
-    (at 133.95075 166.48825)
+    (at 361.95 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F2BEDA8)
@@ -3648,7 +3648,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02473A)
-    (at 184.50575 197.3915)
+    (at 342.9 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB5EC)
@@ -3692,7 +3692,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024721)
-    (at 115.50575 200.7415)
+    (at 323.85 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB5D8)
@@ -3736,7 +3736,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024708)
-    (at 177.2245 186.279)
+    (at 297.65625 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB5C4)
@@ -3780,7 +3780,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0246EF)
-    (at 174.14075 181.6125)
+    (at 273.84375 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB5B0)
@@ -3824,7 +3824,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0246D6)
-    (at 179.89075 181.6125)
+    (at 250.03125 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB59C)
@@ -3868,7 +3868,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0246BD)
-    (at 115.50575 197.3915)
+    (at 226.21875 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB588)
@@ -3912,7 +3912,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0246A4)
-    (at 138.50575 200.7415)
+    (at 154.78125 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB538)
@@ -3956,7 +3956,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02468B)
-    (at 127.00575 200.7415)
+    (at 83.34375 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB4FC)
@@ -4000,7 +4000,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024672)
-    (at 132.75575 200.7415)
+    (at 59.53125 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB4D4)
@@ -4044,7 +4044,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024659)
-    (at 121.25575 197.3915)
+    (at 35.71875 140.49375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB4C0)
@@ -4088,7 +4088,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024640)
-    (at 127.00575 197.3915)
+    (at 342.9 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB498)
@@ -4132,7 +4132,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024627)
-    (at 177.2245 189.629)
+    (at 283.36875 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB470)
@@ -4176,7 +4176,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02460E)
-    (at 116.56575 185.39125)
+    (at 247.65 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB45C)
@@ -4220,7 +4220,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0245F5)
-    (at 116.56575 182.04125)
+    (at 228.6 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB448)
@@ -4264,7 +4264,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0245DC)
-    (at 116.56575 178.69125)
+    (at 209.55 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB434)
@@ -4308,7 +4308,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0245C3)
-    (at 116.56575 175.34125)
+    (at 190.5 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB420)
@@ -4352,7 +4352,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0245AA)
-    (at 116.56575 171.99125)
+    (at 171.45 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB40C)
@@ -4396,7 +4396,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024591)
-    (at 132.75575 197.3915)
+    (at 152.4 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB3F8)
@@ -4440,7 +4440,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024578)
-    (at 121.25575 200.7415)
+    (at 133.35 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB3E4)
@@ -4484,7 +4484,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02455F)
-    (at 161.50575 200.7415)
+    (at 114.3 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB3D0)
@@ -4528,7 +4528,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024546)
-    (at 128.20075 166.48825)
+    (at 95.25 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB3BC)
@@ -4572,7 +4572,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02452D)
-    (at 173.00575 200.7415)
+    (at 76.2 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB3A8)
@@ -4616,7 +4616,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024514)
-    (at 167.25575 197.3915)
+    (at 45.24375 121.44375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0EB380)
@@ -4660,7 +4660,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0244FB)
-    (at 167.25575 200.7415)
+    (at 288.13125 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD6A8)
@@ -4704,7 +4704,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0244E2)
-    (at 161.50575 197.3915)
+    (at 257.175 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD694)
@@ -4748,7 +4748,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0244C9)
-    (at 155.75575 197.3915)
+    (at 238.125 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD680)
@@ -4792,7 +4792,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0244B0)
-    (at 150.00575 197.3915)
+    (at 219.075 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD66C)
@@ -4836,7 +4836,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024497)
-    (at 173.00575 197.3915)
+    (at 200.025 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD658)
@@ -4880,7 +4880,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02447E)
-    (at 178.75575 200.7415)
+    (at 180.975 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD644)
@@ -4924,7 +4924,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024465)
-    (at 178.75575 197.3915)
+    (at 161.925 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD630)
@@ -4968,7 +4968,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02444C)
-    (at 132.29325 213.9065)
+    (at 142.875 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD61C)
@@ -5012,7 +5012,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024433)
-    (at 184.50575 200.7415)
+    (at 123.825 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD608)
@@ -5056,7 +5056,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02441A)
-    (at 190.25575 200.7415)
+    (at 104.775 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD5F4)
@@ -5100,7 +5100,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024401)
-    (at 155.75575 200.7415)
+    (at 85.725 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD5E0)
@@ -5144,7 +5144,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0243E8)
-    (at 190.25575 197.3915)
+    (at 66.675 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD5CC)
@@ -5188,7 +5188,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0243CF)
-    (at 152.82575 187.9195)
+    (at 40.48125 102.39375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD5B8)
@@ -5232,7 +5232,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0243B6)
-    (at 115.04325 213.9065)
+    (at 361.95 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F2B1813)
@@ -5276,7 +5276,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02439D)
-    (at 158.57575 187.9195)
+    (at 342.9 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD5A4)
@@ -5320,7 +5320,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024384)
-    (at 120.79325 213.9065)
+    (at 323.85 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD590)
@@ -5364,7 +5364,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02436B)
-    (at 116.70075 166.48825)
+    (at 295.275 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD57C)
@@ -5375,31 +5375,31 @@
     (fp_text value D_Small (at 0 -2.1) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
+    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
+    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
+    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
+    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
+    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
+    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
     (fp_text user %R (at 0 2) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_line (start -2.25 1) (end -2.25 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start 0.25 0) (end 0.75 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 -0.4) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start 0.25 0.4) (end 0.25 -0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end 0.25 0.4) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 -0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.35 0) (end -0.35 0.55) (layer B.Fab) (width 0.1))
-    (fp_line (start -0.75 0) (end -0.35 0) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 -0.9) (end -1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 -0.9) (end -1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start 1.4 0.9) (end 1.4 -0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -1.4 0.9) (end 1.4 0.9) (layer B.Fab) (width 0.1))
-    (fp_line (start -2.35 1.15) (end 2.35 1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 1.15) (end 2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start 2.35 -1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.35 1.15) (end -2.35 -1.15) (layer B.CrtYd) (width 0.05))
-    (fp_line (start -2.25 -1) (end 1.65 -1) (layer B.SilkS) (width 0.12))
-    (fp_line (start -2.25 1) (end 1.65 1) (layer B.SilkS) (width 0.12))
-    (pad 1 smd rect (at -1.65 0) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
-      (net 42 ROW2))
     (pad 2 smd rect (at 1.65 0) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
       (net 56 "Net-(D48-Pad2)"))
+    (pad 1 smd rect (at -1.65 0) (size 0.9 1.2) (layers B.Cu B.Paste B.Mask)
+      (net 42 ROW2))
     (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -5408,7 +5408,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024352)
-    (at 126.54325 213.9065)
+    (at 271.4625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD568)
@@ -5452,7 +5452,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024339)
-    (at 122.45075 166.48825)
+    (at 252.4125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD554)
@@ -5496,7 +5496,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024320)
-    (at 158.0675 177.17325)
+    (at 233.3625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD540)
@@ -5540,7 +5540,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024307)
-    (at 185.2945 185.79625)
+    (at 214.3125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD52C)
@@ -5584,7 +5584,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0242EE)
-    (at 134.96825 179.34625)
+    (at 195.2625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD518)
@@ -5628,7 +5628,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0242D5)
-    (at 123.46825 172.64625)
+    (at 176.2125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD504)
@@ -5672,7 +5672,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0242BC)
-    (at 185.2945 189.14625)
+    (at 157.1625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD4F0)
@@ -5716,7 +5716,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0242A3)
-    (at 143.79325 213.9065)
+    (at 138.1125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD4DC)
@@ -5760,7 +5760,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02428A)
-    (at 139.70075 166.48825)
+    (at 119.0625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD4C8)
@@ -5804,7 +5804,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024271)
-    (at 149.54325 213.9065)
+    (at 100.0125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD4B4)
@@ -5848,7 +5848,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024258)
-    (at 153.35075 183.34625)
+    (at 80.9625 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD4A0)
@@ -5892,7 +5892,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02423F)
-    (at 115.28825 219.51575)
+    (at 61.9125 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD48C)
@@ -5936,7 +5936,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024226)
-    (at 121.03825 219.51575)
+    (at 38.1 83.34375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0CD478)
@@ -5980,7 +5980,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02420D)
-    (at 115.60575 208.99025)
+    (at 361.95 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F2A3C54)
@@ -6024,7 +6024,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0241F4)
-    (at 123.46825 175.99625)
+    (at 342.9 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7B10)
@@ -6068,7 +6068,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0241DB)
-    (at 115.60575 205.64025)
+    (at 323.85 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7AFC)
@@ -6112,7 +6112,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0241C2)
-    (at 159.10075 183.34625)
+    (at 290.5125 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7AE8)
@@ -6156,7 +6156,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0241A9)
-    (at 138.04325 213.9065)
+    (at 261.9375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7AD4)
@@ -6200,7 +6200,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024190)
-    (at 126.78825 219.51575)
+    (at 242.8875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7AC0)
@@ -6244,7 +6244,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024177)
-    (at 127.10575 208.99025)
+    (at 223.8375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7AAC)
@@ -6288,7 +6288,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02415E)
-    (at 132.53825 219.51575)
+    (at 204.7875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A98)
@@ -6332,7 +6332,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024145)
-    (at 152.3175 177.17325)
+    (at 185.7375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A84)
@@ -6376,7 +6376,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02412C)
-    (at 127.10575 205.64025)
+    (at 166.6875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A70)
@@ -6420,7 +6420,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024113)
-    (at 141.1415 189.82525)
+    (at 147.6375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A5C)
@@ -6464,7 +6464,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0240FA)
-    (at 132.85575 208.99025)
+    (at 128.5875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A48)
@@ -6508,7 +6508,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0240E1)
-    (at 123.46825 179.34625)
+    (at 109.5375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A34)
@@ -6552,7 +6552,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0240C8)
-    (at 129.21825 179.34625)
+    (at 90.4875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A20)
@@ -6596,7 +6596,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F0240AF)
-    (at 121.35575 208.99025)
+    (at 71.4375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B7A0C)
@@ -6640,7 +6640,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024096)
-    (at 138.50575 197.3915)
+    (at 52.3875 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B79F8)
@@ -6684,7 +6684,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02407D)
-    (at 144.25575 200.7415)
+    (at 33.3375 64.29375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0B79E4)
@@ -6728,7 +6728,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024064)
-    (at 144.25575 197.3915)
+    (at 361.95 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F2A248A)
@@ -6772,7 +6772,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F02404B)
-    (at 150.00575 200.7415)
+    (at 342.9 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC72)
@@ -6816,7 +6816,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024032)
-    (at 116.56575 188.74125)
+    (at 323.85 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC5E)
@@ -6860,7 +6860,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024019)
-    (at 138.28825 219.51575)
+    (at 300.0375 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC4A)
@@ -6904,7 +6904,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F024000)
-    (at 121.35575 205.64025)
+    (at 276.225 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC36)
@@ -6948,7 +6948,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023FE7)
-    (at 144.03825 219.51575)
+    (at 257.175 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC22)
@@ -6992,7 +6992,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023FCE)
-    (at 138.60575 208.99025)
+    (at 238.125 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFC0E)
@@ -7036,7 +7036,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023FB5)
-    (at 132.85575 205.64025)
+    (at 219.075 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFBFA)
@@ -7080,7 +7080,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F9C)
-    (at 138.60575 205.64025)
+    (at 195.2625 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AFBE6)
@@ -7124,7 +7124,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F83)
-    (at 146.8915 183.12525)
+    (at 176.2125 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AA40E)
@@ -7168,7 +7168,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F6A)
-    (at 163.8175 177.17325)
+    (at 157.1625 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AA3FA)
@@ -7212,7 +7212,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F51)
-    (at 146.8915 189.82525)
+    (at 138.1125 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AA3E6)
@@ -7256,7 +7256,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F38)
-    (at 141.1415 186.47525)
+    (at 114.3 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0AA3D2)
@@ -7300,7 +7300,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F1F)
-    (at 146.8915 186.47525)
+    (at 95.25 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0A6F40)
@@ -7344,7 +7344,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023F06)
-    (at 150.01875 219.86875)
+    (at 76.2 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0A6F2C)
@@ -7388,7 +7388,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023EED)
-    (at 141.1415 183.12525)
+    (at 57.15 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0A4E48)
@@ -7432,7 +7432,7 @@
   )
 
   (module random-keyboard-parts:D_SOD-123-Pretty (layer B.Cu) (tedit 5E62B47D) (tstamp 5F023ED4)
-    (at 141.1415 179.77525)
+    (at 33.3375 40.48125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5F0A43D5)
